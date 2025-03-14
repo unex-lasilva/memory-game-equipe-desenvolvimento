@@ -38,5 +38,7 @@ Vamos exemplificar essas regras iniciais para vocês. Um exemplo sempre é uma b
 
 
 **Team members:**
-1. *Nome do membro* - *e-mail*
-2. *Nome do membro* - *e-mail*
+1. Monyc Luisa Almeida de Cerqueira  -  monyc_luisa@hotmail.com
+2. Pedro César Paixão de Jesus - pdrocesar78@gmail.com
+3. Nalbert de Souza Santana - nanal1x2@outlook.com
+4. Mickael Cedraz Alencar - micbronw07@hotmail.com 

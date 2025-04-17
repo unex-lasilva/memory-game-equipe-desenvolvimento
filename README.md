@@ -42,3 +42,12 @@ Vamos exemplificar essas regras iniciais para vocês. Um exemplo sempre é uma b
 2. Pedro César Paixão de Jesus - pdrocesar78@gmail.com
 3. Nalbert de Souza Santana - nanal1x2@outlook.com
 4. Mickael Cedraz Alencar - micbronw07@hotmail.com 
+
+Integrante	Nalbert de Souza 	Mickael Cedraz	Monyc Luiza	Pedro César
+				
+Nalbert de Souza 	9,5	10	10	10
+Mickael Cedraz	  10	10	10	10
+Monyc Luiza	      10	10	9 	10
+Pedro César	      9,5	10	10  9
+				
+Nota	39	40	39	39
